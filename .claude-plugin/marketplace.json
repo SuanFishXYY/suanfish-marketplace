@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "suanfish-marketplace",
+  "description": "算鱼工作室 · Claude Code / Codex / Copilot CLI plugin marketplace · 哲学驱动的多智能体设计语言体系",
+  "version": "1.0.0",
+  "owner": {
+    "name": "算鱼工作室 SuanFish Studio",
+    "email": "129258551+SuanFishXYY@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "suanfish-design-system",
+      "displayName": "算鱼设计系统 v3.0 · 哲学升维",
+      "source": {
+        "source": "github",
+        "repo": "SuanFishXYY/suanfish-design-system",
+        "ref": "v3.0.0"
+      },
+      "description": "36 位 agent · 8 tier · 7 path · R1-R18 REJECT 机制的多智能体设计语言。v3.0 引入三层哲学体系（价值 + 辩证 + 发展规律）+ 8 时代历史定位 + Tier 0 辩证哲学层（dialectician/historian/futurist）。99% 的 AI 永远回答 Yes，这个 AI 有 18 条硬规则可以拒单。",
+      "version": "3.0.0",
+      "author": {
+        "name": "算鱼工作室 SuanFish Studio"
+      },
+      "homepage": "https://github.com/SuanFishXYY/suanfish-design-system",
+      "repository": "https://github.com/SuanFishXYY/suanfish-design-system",
+      "license": "MIT",
+      "category": "design-system",
+      "keywords": [
+        "design-system",
+        "multi-agent",
+        "philosophy",
+        "dialectics",
+        "ui-design",
+        "onboarding",
+        "ai-native",
+        "streaming-ui",
+        "reject-mechanism",
+        "tier-0",
+        "chinese",
+        "react",
+        "tailwind",
+        "skill"
+      ],
+      "tags": [
+        "v3.0",
+        "philosophy-driven",
+        "8-tier",
+        "7-path",
+        "ai-native",
+        "AGI-ready"
+      ]
+    }
+  ]
+}
