@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "suanfish-marketplace",
   "description": "算鱼工作室 · Claude Code / Codex / Copilot CLI plugin marketplace · 哲学驱动的多智能体设计语言体系",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "owner": {
     "name": "算鱼工作室 SuanFish Studio",
     "email": "129258551+SuanFishXYY@users.noreply.github.com"
@@ -14,10 +14,10 @@
       "source": {
         "source": "github",
         "repo": "SuanFishXYY/suanfish-design-system",
-        "ref": "v3.1.0"
+        "ref": "v3.1.1"
       },
       "description": "36 位 agent · 8 tier · 7 path · R1-R18 REJECT 机制的多智能体设计语言。v3.0 引入三层哲学体系（价值 + 辩证 + 发展规律）+ 8 时代历史定位 + Tier 0 辩证哲学层（dialectician/historian/futurist）。v3.0.1 新增 301 位中外哲学家板凳（117 中国 + 184 西方）—— 全球唯一中国哲学驱动的 design system。99% 的 AI 永远回答 Yes，这个 AI 有 18 条硬规则可以拒单。",
-      "version": "3.1.0",
+      "version": "3.1.1",
       "author": {
         "name": "算鱼工作室 SuanFish Studio"
       },
